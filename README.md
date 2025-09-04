@@ -1,3 +1,3 @@
 # Birthday
-A gusture of my effort
+A gusture of my effort.
 Author - Rout George Kerry
